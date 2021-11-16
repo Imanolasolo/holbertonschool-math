@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x13-more_singly_linked_lists/IMAGES/CODE%20CODIX%20logo%20final.png) 
 
-## C - More singly linked lists
+# 0x00. Math - Complex
 **Learning Objectives**
 
 This project is devoted to do some basic operations in the real line and the complex plane.
@@ -74,48 +74,5 @@ and functions written for the project.
   You can use the library <math.h> in your code.
 
 
-# 0x00. Math - Complex
 
-**Author:** Imanol Asolo
 
-**Learning Objectives**
-
-This project is devoted to do some basic operations in the real line and the complex plane.
-
-*Algebra operations.*
-
-*Absolute values.*
-
-*Cosinus and Sinus.*
-
-*The Cartesian plane.*
-
-*The Complex plane.*
-
-*Real part and Imaginary part of Complex Numbers.*
-
-*Modulus*
-
-*Argument*
-
-**Files:**
-
-[main.h] File containing global variables and functions to use inn the project
-
-[0.display.c] Function to display the complex numbers, followed by a new line.
-
-[1.conjugate.c] Function that returns the conjugate of a given complex number
-
-[2-modulus.c] Function that returns the modulus of a given complex number.
-
-[3-argument.c] Function that returns the argument of a given complex number.
-
-[4-adittion.c] Function that performs the adittion operation to complex numbers.
-
-[5-substraction.c] Function that performs the substraction operation to complex numbers.
-
-[6-multiplication.c] Function that performs the multiplication operation to complex numbers.
-
-[7-division.c] Function that performs the division operation to complex numbers.
-
-[8-complex.c] Function that update the real and the imaginary parts of a complex number given its modulus and arguments.
