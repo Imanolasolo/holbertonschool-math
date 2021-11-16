@@ -17,7 +17,7 @@ This project is devoted to do some basic operations in the real line and the com
 
 **Author: Imanol Asolo**
 
-![pngwing com (2)](https://user-images.githubusercontent.com/86312558/142048668-4bec0f80-8112-4f3d-b898-9d8a9ba532b4.png) @jjusturi71 ![pngwing com (3)](https://user-images.githubusercontent.com/86312558/142048993-28de7d8c-df86-4f2f-bb08-f46a1ab35076.png) @jjusturi
+![pngwing com (2)](https://user-images.githubusercontent.com/86312558/142048668-4bec0f80-8112-4f3d-b898-9d8a9ba532b4.png) [@jjusturi](https://twitter.com/jjusturi) ![pngwing com (3)](https://user-images.githubusercontent.com/86312558/142048993-28de7d8c-df86-4f2f-bb08-f46a1ab35076.png) [Imanol Asolo](https://www.linkedin.com/in/imanol-asolo-5ba9b42a/)
 ## Header File :file_folder:
 
 * [main.h]: Header file containing definitions and prototypes for all types
