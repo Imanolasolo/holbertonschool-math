@@ -73,6 +73,3 @@ and functions written for the project.
 
   You can use the library <math.h> in your code.
 
-
-
-
